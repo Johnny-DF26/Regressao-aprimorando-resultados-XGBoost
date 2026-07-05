@@ -44,6 +44,6 @@ O modelo final apresentou uma performance excepcional no conjunto de teste:
 *   `notebook.ipynb`: Workflow completo do projeto.
 
 ---
-* Curso Alura
+* Aprendizagem Alura 
 * Instrutor(a): Valquíria Alencar
 * Desenvolvido com foco em alta performance e explicabilidade técnica.* 🚀
