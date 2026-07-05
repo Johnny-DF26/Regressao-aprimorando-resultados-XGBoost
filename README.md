@@ -1,4 +1,4 @@
-# Automotive Price Intelligence: Predição de Preços com XGBoost 🚗💨  
+# Automotive Price Intelligence: Predição de Preços com XGBoost🚗💨  
 
 Este projeto desenvolve uma solução de ponta a ponta para a precificação inteligente de veículos usados. Através de um pipeline robusto de Machine Learning, o objetivo é auxiliar uma concessionária a estimar valores de mercado com base em características técnicas e de consumo.
 
